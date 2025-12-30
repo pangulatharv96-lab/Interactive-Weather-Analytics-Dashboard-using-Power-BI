@@ -16,7 +16,6 @@ Enable interactive data exploration using slicers and filters
 Present complex weather data in an easy-to-understand visual format
 
 🔧 Tools & Technologies Used
-
 Microsoft Power BI – Data visualization and dashboard creation
 
 Power Query – Data cleaning and transformation
